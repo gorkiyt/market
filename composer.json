@@ -1,14 +1,22 @@
 {
     "name": "gorkiyt/market",
-    "description": "Market",
+    "description": "Proje",
     "type": "yii2-extension",
+    "keywords": ["yii2", "yii 2", "market"],
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Gorkem ARIFOGLU",
+            "name": "Gorkem",
             "email": "hgrkm5@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+	"minimum-stability": "stable",
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+    "autoload": {
+        "psr-4": {
+            "gorkiyt\\market\\": ""
+        }
+    }
 }
