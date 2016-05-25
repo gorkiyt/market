@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\modules\admin\models;
+namespace gorkiyt\market\models;
 
 use Yii;
 
