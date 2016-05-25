@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\modules\admin\controllers;
+namespace gorkiyt\market\controllers;
 
 use yii\web\Controller;
 
