@@ -1,10 +1,10 @@
 <?php
 
-namespace frontend\modules\admin\controllers;
+namespace gorkiyt\market\controllers;
 
 use Yii;
-use frontend\modules\admin\models\Market;
-use frontend\modules\admin\models\MarketSearch;
+use gorkiyt\market\models\Market;
+use gorkiyt\market\models\MarketSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
