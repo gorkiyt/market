@@ -1,10 +1,10 @@
 <?php
 
-namespace frontend\modules\admin;
+namespace gorkiyt\market\admin;
 
 class Yonetim extends \yii\base\Module
 {
-    public $controllerNamespace = 'frontend\modules\admin\controllers';
+    public $controllerNamespace = 'gorkiyt\market\controllers';
 
     public function init()
     {
