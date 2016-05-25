@@ -1,11 +1,11 @@
 <?php
 
-namespace frontend\modules\admin\models;
+namespace gorkiyt\market\models;
 
 use Yii;
 use yii\base\Model;
 use yii\data\ActiveDataProvider;
-use frontend\modules\admin\models\Market;
+use gorkiyt\market\models\Market;
 
 /**
  * MarketSearch represents the model behind the search form about `frontend\models\Market`.
