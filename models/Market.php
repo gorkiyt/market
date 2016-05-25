@@ -1,11 +1,11 @@
 <?php
 
-namespace frontend\modules\admin\models;
+namespace gorkiyt\market\models;
 
 use Yii;
 use yii\web\UploadedFile;
 use yii\db\Query;
-use yii\frontend\modules\admin\models;
+use gorkiyt\market\models;
 /**
  * This is the model class for table "market".
  *
